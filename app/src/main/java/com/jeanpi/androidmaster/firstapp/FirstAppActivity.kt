@@ -24,6 +24,8 @@ class FirstAppActivity : AppCompatActivity() {
         val btnStart = findViewById<Button>(R.id.btnStart)
         val etName1 = findViewById<EditText>(R.id.etName)
 
+        
+
 
 
 
